@@ -25,5 +25,3 @@ A responsive personal portfolio website created using HTML, CSS and JavaScript.
 - LinkedIn
 
 ## Live Demo
-
-Visit my portfolio website to see my projects and skills.
